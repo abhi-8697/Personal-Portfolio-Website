@@ -1,0 +1,214 @@
+body {
+    margin: 0px;
+}
+
+h1 {
+    display: block;
+    width: 825px;
+    text-align: center;
+
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    color: #105550;
+    font-size: 150px;
+    /* letter-spacing: 2px;*/
+    font-weight: 200;
+}
+
+.top p {
+    display: block;
+    text-align: center;
+
+    width: 176px;
+    margin: auto;
+    font-family: 'Rancho', cursive;
+    color: #1d6665;
+    /* font-stretch: extra-expanded; */
+    font-size: 30px;
+    line-height: 0px;
+}
+
+.top {
+    margin: 0px;
+    background-color: #d4ecee;
+    height: 960px;
+}
+
+.mid {
+    background-color: #ffffff;
+    margin-top: 0px;
+    height: 2070px;
+}
+
+.bottom {
+    background-color: #18978F;
+    height: 60px;
+}
+
+.cloud_img {
+    display: block;
+    width: 330px;
+    margin: auto;
+}
+
+.mountain_img {
+    display: block;
+    width: 758px;
+    margin: auto;
+    height: 461px;
+}
+
+#top-cloud {
+    margin-left: 1093px;
+    width: 268px;
+    padding-top: 67px;
+    padding-bottom: 26px;
+}
+#bottom-cloud {
+    margin-left: 464px;
+    width: 159px;
+    padding-top: 9px;
+    padding-bottom: -51px;
+}
+
+.mid h2 {
+    display: block;
+    width: 365px;
+    margin: auto;
+    color: #3a9190;
+    text-align: center;
+
+    font-size: 40px;
+    font-family: 'Commissioner', sans-serif;
+    font-weight: bold;
+    padding-top: 30px;
+}
+
+.mid p {
+    color: #3a9190;
+    display: block;
+    width: 831px;
+    margin: auto;
+    font-weight: 300;
+    font-size: 20px;
+    text-align: center;
+
+    padding-top: 8px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mid img {
+    display: block;
+    width: 441px;
+    margin: auto;
+}
+
+.mid .skills-img {
+    display: block;
+    width: 260px;
+    margin: auto;
+}
+
+hr {
+    padding-top: 0px;
+    margin-top: 45px;
+    border-style: dotted none none;
+    width: 65px;
+    border-width: 10px;
+    color: #2b6d6c73;
+}
+
+.mid .skills {
+    display: block;
+    /* width: 109px;
+     */
+    text-align: center;
+    margin: auto;
+    color: #3a9190;
+    font-size: 40px;
+    font-family: 'Commissioner', sans-serif;
+    font-weight: bold;
+    padding-top: 0px;
+}
+
+.coding {
+    margin-top: 17px;
+    margin-right: 38px;
+}
+
+.mid div img {
+    width: 150px;
+    padding-right: 615px;
+}
+
+.mid div p {
+    display: inline-block;
+    width: 664px;
+    position: absolute;
+    margin: auto;
+    padding-top: 43px;
+    left: 725px;
+    text-align: left;
+    top: 1830px;
+}
+.mid .editing{
+    margin-top: 17px;
+    margin-right: 38px;
+}
+.mid .editing p{
+    display: inline-block;
+    width: 659px;
+    position: absolute;
+    margin: auto;
+    padding-top: 21px;
+    left: 535px;
+    text-align: right;
+    top: 2006px;
+}
+.mid .editing img{
+    display: block;
+    width: 168px;
+    padding: 0px;
+    margin: auto;
+    margin-left: 76pc;
+    /* margin-bottom: -1pc; */
+    height: 134px;
+}
+.mid .car-image{
+    width: 239px;
+    padding: 52px;
+}
+.mid .owner-detection-title{
+    padding-top: 30px;
+    width: 915px;
+}
+.mid .contact{
+    padding-top: 22px;
+}
+.mid .contact-button{
+    border: 1px solid white;
+    border-radius: 40px;
+    text-align: center;
+    width: 136px;
+    display: block;
+    margin: auto;
+    margin-top: 24px;
+    height: 36px;
+    background-color: #3a9190;
+    color: white;
+    font-family: 'Commissioner', sans-serif;
+    font-size: 15px;
+}
+.mid .contact-button a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.mid .contact-button a:hover{
+    color: #3a9190;
+    text-decoration: none;
+}
+.mid .contact-button:hover{
+    background-color: rgb(224, 230, 229);
+    color: #3a9190;
+}
